@@ -5231,7 +5231,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
 .navbar-toggle .icon-bar {
     display: block;
     width: 22px;
-    height: 5px;
+    height: 3px;
     border-radius: 1px
 }
 
@@ -7798,6 +7798,7 @@ button.close {
     margin-right: auto;
     margin-left: auto;
     background-color: burlywood;
+    border-radius: 50px;
 }
 
 .pull-right {
